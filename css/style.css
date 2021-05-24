@@ -267,3 +267,35 @@ h2.title{
     text-align: center;
     width: 80%;
 }
+
+.first{
+    padding: 50px 0;
+}
+
+.first_img{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+
+.first h1,h2 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.first_title, .first_text{
+    text-transform: uppercase;
+}
+
+.first_title{
+    font-size: 20px;
+}
+
+.first_text {
+    color: #2798b9;
+    font-size: 24px;
+}
+
+.first_text-sub{
+    font-size: 18px;
+}
